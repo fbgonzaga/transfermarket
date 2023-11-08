@@ -25,3 +25,6 @@ replay_pid*
 
 # IntelliJ files
 .idea/*
+
+# compiled files
+target/*
